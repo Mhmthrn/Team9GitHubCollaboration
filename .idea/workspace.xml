@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="357d41f7-32b4-4e26-b139-f1ae9c0db135" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+>>>>>>> 1c95f7a79ac976755f79d2674a8d9612b956a414
+>>>>>>> 665fb7a21466f0cf979b802aab6853547bfd8fbb
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +35,11 @@
   </component>
   <component name="ProjectId" id="2MVawZiOHiQreGIzubRVa3Khd8c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+<<<<<<< HEAD
     <ConfirmationsSetting value="1" id="Add" />
+=======
+    <OptionsSetting value="false" id="Update" />
+>>>>>>> 665fb7a21466f0cf979b802aab6853547bfd8fbb
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -41,6 +53,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Branch1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team108_TestNG_POM" />
@@ -52,6 +65,54 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests.Ali_Branch" />
       <option name="MAIN_CLASS_NAME" value="tests.Ali_Branch.Branch1" />
+=======
+  <component name="RunManager" selected="TestNG.C01.test">
+    <configuration name="C01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team108_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Kubra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Kubra" />
+      <option name="MAIN_CLASS_NAME" value="tests.Kubra.C01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team108_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Kubra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Kubra" />
+      <option name="MAIN_CLASS_NAME" value="tests.Kubra.C01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team108_TestNG_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Kubra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Kubra" />
+      <option name="MAIN_CLASS_NAME" value="tests.Kubra.C02" />
+>>>>>>> 665fb7a21466f0cf979b802aab6853547bfd8fbb
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -61,7 +122,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="TestNG.Branch1" />
+=======
+        <item itemvalue="TestNG.C01.test" />
+        <item itemvalue="TestNG.C02" />
+        <item itemvalue="TestNG.C01" />
+>>>>>>> 665fb7a21466f0cf979b802aab6853547bfd8fbb
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +142,16 @@
       <updated>1677855445601</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
